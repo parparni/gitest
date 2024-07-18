@@ -1,3 +1,3 @@
-document.querySelector("button").addEventListene("click", ()=> {
-    console.log("i am good boy")
+document.querySelector("button").addEventListener("click", ()=> {
+    console.log("i am good boy and so you are abiwhat are you")
 })
